@@ -1,0 +1,38 @@
+[
+    {
+        "artist": "The Beatles",
+        "album_title": "Abbey Road",
+        "tracks": [
+            "Come Together",
+            "Something",
+            "Maxwell's Silver Hammer",
+            "Oh! Darling",
+            "Octopus's Garden"
+        ],
+        "year": 1969
+    },
+    {
+        "artist": "Nirvana",
+        "album_title": "Nevermind",
+        "tracks": [
+            "Smells Like Teen Spirit",
+            "In Bloom",
+            "Come As You Are",
+            "Breed",
+            "Lithium"
+        ],
+        "year": 1991
+    },
+    {
+        "artist": "Adele",
+        "album_title": "21",
+        "tracks": [
+            "Rolling in the Deep",
+            "Rumour Has It",
+            "Turning Tables",
+            "Don't You Remember",
+            "Set Fire to the Rain"
+        ],
+        "year": 2011
+    }
+]
